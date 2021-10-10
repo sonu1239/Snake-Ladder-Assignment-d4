@@ -1,0 +1,7 @@
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\bin\Debug\SnekeAndLadder.exe.config
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\bin\Debug\SnekeAndLadder.exe
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\bin\Debug\SnekeAndLadder.pdb
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\obj\Debug\SnekeAndLadder.csproj.AssemblyReference.cache
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\obj\Debug\SnekeAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\obj\Debug\SnekeAndLadder.exe
+C:\Users\MY\source\repos\SnekeAndLadder\SnekeAndLadder\obj\Debug\SnekeAndLadder.pdb
